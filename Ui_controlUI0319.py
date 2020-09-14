@@ -19,7 +19,7 @@ class Ui_Control(object):
         Control.setMinimumSize(QtCore.QSize(634, 550))
         Control.setMaximumSize(QtCore.QSize(634, 650))
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("../new0828/res/logo2.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon.addPixmap(QtGui.QPixmap("res/logo2.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         Control.setWindowIcon(icon)
         Control.setWindowOpacity(1.0)
         Control.setStyleSheet("QPushButton:checked{background-color:rgb(0,255,0);border:groove}")
@@ -43,7 +43,7 @@ class Ui_Control(object):
         self.label.setStyleSheet("background-color:\n"
 "qlineargradient(spread:pad, x1:1, y1:0.455, x2:1, y2:1, stop:0 rgba(85, 85, 255, 255), stop:1 rgba(240, 240, 240, 255))")
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("../new0828/res/logo2019.png"))
+        self.label.setPixmap(QtGui.QPixmap("res/logo2019.png"))
         self.label.setObjectName("label")
         self.dianyuanbufen = QtWidgets.QWidget(self.centralwidget)
         self.dianyuanbufen.setGeometry(QtCore.QRect(30, 180, 521, 361))

@@ -17,25 +17,21 @@ from Ui_controlUI0319 import Ui_Control
 from Ui_seaddialog import Ui_seedDialog
 
 class trans():
-    #初试操作，参数初始化、开串口、设置轮询
+    # 初始化操作，参数初始化、开串口、设置轮询
     def init(self):
-        
-
-        thread_v = threading.Thread(target=self.init_v)
-        thread_v.setDaemon(True)
-
-
+        #thread_v = threading.Thread(target=self.init_v)
+        #thread_v.setDaemon(True)
         self.timer = QTimer(self)
         self.timer9600 = QTimer(self)
         self.timer_stop = QTimer(self) 
-
         #self.timer.timeout.connect(self.data_read)   #下面读取电压的init_v
         print("start read")
         self.response = ''
         self.now_num = 0
         self.volt_state = [0,0,0,0,0]
-        
         self.port_open()   
+
+
 
     
     def port_open(self):            # 搜索并打开serial串口
@@ -80,24 +76,28 @@ class trans():
                     self.on[i].setEnabled(False)
                 print("运行按钮已false")
                 self.timer.start(5000)      # 轮询查电压
-                #self.timer.timeout.connect(lambda:thread_v.start())
+                self.timer.timeout.connect(self.inquiry_def)
+
+    def inquiry_def(self):
+        print("开启轮询线程")
+        thread_inquiry = threading.Thread(target=self.init_v)
+        thread_inquiry.setDaemon(True)
+        thread_inquiry.start()
+
 
     def init_v(self):
         self.threadLock.acquire()       # 和一键全开关锁在一起  
-         # 电压值列表每一次轮询都归零
+        # 电压值列表每一次轮询都归零
         self.voltage = [0,0,0,0,0]     
         # 发送指令获取电压值
         for i in range(1,6):                    
             addr = "0"+str(i)                   
             update_v=self.get_volt(addr)        # 发送指令，查询地址对应的电源电压
             #print("查询地址为",i,"的电源")
-        #print("这一轮查询电压结束","\n")
-
+        print("这一轮查询电压结束","\n")
         # 查询温度
         self.data_write(str="01 04 03 E8 00 01 B1 BA")
-
         time.sleep(0.05)     
-
         # 读取返回指令
         hex_data = self.data_read()
         # 更新电压值数组和温度

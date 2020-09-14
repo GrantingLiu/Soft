@@ -3,7 +3,7 @@
 #from PyQt5.Qt import *
 import sys
 from PyQt5.QtCore import QTimer,pyqtSignal
-from PyQt5 import QtCore, QtGui, QtWidgets
+#from PyQt5 import QtCore, QtGui, QtWidgets
 import time
 #import serial 
 import serial.tools.list_ports
@@ -21,22 +21,8 @@ pre_offorder = [ "aa 01 10 cc 33 c3 3c","aa 02 10 cc 33 c3 3c","aa 03 10 cc 33 c
 on_onorder = ["aa 01 22 cc 33 c3 3c","aa 02 22 cc 33 c3 3c","aa 03 22 cc 33 c3 3c","aa 04 22 cc 33 c3 3c","aa 05 22 cc 33 c3 3c"]
 on_offorder = ["aa 01 20 cc 33 c3 3c","aa 02 20 cc 33 c3 3c","aa 03 20 cc 33 c3 3c","aa 04 20 cc 33 c3 3c","aa 05 20 cc 33 c3 3c"]
 
-
-
-
-
 class slot():
-
-
     def signalslot(self):
-        # 能不能写在外面？  
-        
-        
-       
-        #thread_alloff_emer = threading.Thread(target=self.alloff,args=(1,))
-
-        
-
 
         self.pre[0].clicked.connect(lambda:self.power_pre(0))
         self.pre[1].clicked.connect(lambda:self.power_pre(1))
@@ -56,22 +42,22 @@ class slot():
         self.pw4_v_send.clicked.connect(self.do_pw_v4)
         self.pw5_v_send.clicked.connect(self.do_pw_v5)
 
-        self.on_all.clicked.connect(self.all_on_def)            # 电源全开
+        self.on_all.clicked.connect(self.all_on_def)     # 电源全开
         self.off_all.clicked.connect(self.alloff_def)    # 电源全关
-        self.shutter.clicked.connect(self.shutter_con)
-        self.stop_emer.clicked.connect(self.stop_judge)                     # 急停
-        self.start_laser.clicked.connect(self.count_down_def)
+        self.shutter.clicked.connect(self.shutter_con)   # 光阑
+        self.stop_emer.clicked.connect(self.stop_judge)  # 急停                  
+        self.start_laser.clicked.connect(self.count_down_def)       # 出光
 
         self.pop_signal.connect(self.pop_error)
         
-    # 电源全开线程槽函数
+    # 电源全开的线程槽函数
     def all_on_def(self):
         print("开启全开线程")
         thread_allon = threading.Thread(target=self.allon)
         thread_allon.setDaemon(True)
         thread_allon.start()
 
-    # 出光线程槽函数
+    # 出光的线程槽函数
     def count_down_def(self):
         thread_count_down = threading.Thread(target=self.count_down)
         thread_count_down.setDaemon(True)
@@ -82,7 +68,8 @@ class slot():
         thread_start_light = threading.Thread(target=self.start_light)
         thread_start_light.setDaemon(True)
         thread_start_light.start()
-
+    
+    # 除了种子源的工作，其他全开
     def start_light(self):
         print("开启出光")
         self.threadLock.acquire()  
@@ -112,7 +99,7 @@ class slot():
     def stop_judge(self):
         self.stop_emer.clicked.disconnect(self.stop_judge)      # 解除原有信号槽。因为都要用到clicked
         self.times = 1  
-        self.timer_stop.singleShot(700,lambda:self.count_stop_judge(self.times))   # 计时0.5s                                        # 点击次数为1
+        self.timer_stop.singleShot(700,lambda:self.count_stop_judge(self.times))   # 定时器触发信号                                        # 点击次数为1
         self.stop_emer.clicked.connect(self.inclease_times)
         # self.timer_stop.timeout.connect(lambda:self.count_stop_judge(self.times))      # 计时结束后查看点击次数
 
@@ -173,14 +160,18 @@ class slot():
             print("未全开机")
             number_str = ""
             for i in range(0,len(nohave_volt)):
-                if i == (len(nohave_volt))-1:
-                    number_str = number_str + str(nohave_volt[i])
+                if nohave_volt[i] == 1:     # 是种子源的话
+                    name_volt = "种子源"
                 else:
-                    number_str = number_str + str(nohave_volt[i]) + ","
+                    name_volt = "电源" + str(nohave_volt[i]-1) 
+                if i == (len(nohave_volt))-1:
+                    number_str = number_str + name_volt
+                else:
+                    number_str = number_str + name_volt + ","
             self.pop_signal.emit(number_str)
 
     def pop_error(self,num):
-        QMessageBox.about( None,"错误", "第" + num + "台电源未开启!")
+        QMessageBox.about( None,"错误",  num + "台电源未开启!")
             
             
 

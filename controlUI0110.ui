@@ -30,7 +30,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>../new0828/res/logo2.jpg</normaloff>../new0828/res/logo2.jpg</iconset>
+    <normaloff>res/logo2.jpg</normaloff>res/logo2.jpg</iconset>
   </property>
   <property name="windowOpacity">
    <double>1.000000000000000</double>
@@ -80,7 +80,7 @@ qlineargradient(spread:pad, x1:1, y1:0.455, x2:1, y2:1, stop:0 rgba(85, 85, 255,
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>../new0828/res/logo2019.png</pixmap>
+     <pixmap>res/logo2019.png</pixmap>
     </property>
     <property name="margin">
      <number>1</number>
