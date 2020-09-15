@@ -1,6 +1,6 @@
 
 #串口通信
-from PyQt5.QtCore import Qt
+#from PyQt5.QtCore import Qt
 from PyQt5.QtCore import QUrl
 import sys
 import threading
@@ -12,8 +12,8 @@ from PyQt5.QtCore import QTimer
 import time
 import serial
 import serial.tools.list_ports
-from PyQt5.QtWidgets import QApplication,QMainWindow,QDialog
-from Ui_controlUI0319 import Ui_Control
+from PyQt5.QtWidgets import QApplication,QMainWindow,QDialog,QMessageBox
+from Ui_control import Ui_Control
 from Ui_seaddialog import Ui_seedDialog
 
 class trans():
@@ -39,6 +39,8 @@ class trans():
         self.serial_9600_name = ''
         if len(port_list) == 0:     # 如果检测不到任何串口 
             print('无任何串口')
+            QMessageBox.about( None,"错误",  "无任何串口！")
+
             sys.exit()              # 退出程序
         else:
             k = -2                  
@@ -66,9 +68,11 @@ class trans():
                     self.serial_9600.open()
                 except:
                     print("串口打开失败")
+                    QMessageBox.about( None,"错误",  "打开串口失败！")
                     sys.exit()  
             else:
                 print("无serial串口")
+                QMessageBox.about( None,"错误",  "无serial串口！")
                 sys.exit()
             if self.serial_9600.isOpen():
                 print(self.serial_9600.port,"is open")
@@ -106,15 +110,17 @@ class trans():
         # 根据电压值列表，二次确认电压后，更新界面
         for i in range(0,5):
             if self.voltage[i] == 0:
+                time.sleep(0.1)
                 self.get_volt("0"+str(i+1))
                 time.sleep(0.1)
-                self.search_volt(self.data_read())      #再查询该电源并更新电压值数组
+                second_read = self.data_read()
+                self.search_volt(second_read)      #再查询该电源并更新电压值数组
                 if self.voltage[i] == 0:
                     self.reset_v(i)      # 两次都未读到，才判断为未开机
                     self.volt_state[i] = 0
                     #print("两次未读到第%d台电压" % (i+1))
                     continue
-            if self.voltage[i] != 0:
+            else:
                 if self.voltage[i] > 0 and self.voltage[i] < 2000:
                     self.pw_v[i].setText(str(self.voltage[i]))
                     self.pre[i].setEnabled(True)
@@ -188,7 +194,7 @@ class trans():
 
     def reset_v(self,ch):
         self.pw_v[ch].setText("loadchng")
-        #print("重置电压第",ch+1,"台电压值")
+        print("重置电压第",ch+1,"台电压值")
         self.pre[ch].setChecked(False)
         self.pre[ch].setEnabled(False)
         self.on[ch].setChecked(False)
@@ -233,7 +239,7 @@ class trans():
             print("string:",input_s)
 
     # 从处理得到的16进制字符串中获取电压值
-    def UpdateVolt(self,FindData):
+    '''def UpdateVolt(self,FindData):
         judge_open = []
         for i in range(0,len(FindData),3):             
             if FindData[i:i+2] == "BB" and FindData[i+6:i+8] == "C3" and  FindData[i+21:i+32] == "CC 33 C3 3C":
@@ -270,7 +276,7 @@ class trans():
             else:
                 self.lcdNumber.display(0)
         # 循环完后，看judge里有哪些，还缺哪些，缺的把判断数组volt_state相应的设置成0
-        '''for i in range(0,5):
+        for i in range(0,5):
             if i in judge_open:
                 self.volt_state[i] = 1
             else:
@@ -297,5 +303,5 @@ class trans():
             return self.response
             #self.UpdateVolt(self.response)
         else:
-            #print("未接收到任何返回指令")
+            print("未接收到任何返回指令")
             return 0

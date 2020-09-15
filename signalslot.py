@@ -8,12 +8,12 @@ import time
 #import serial 
 import serial.tools.list_ports
 from PyQt5.QtWidgets import QApplication,QMainWindow,QMessageBox
-from Ui_pw1dialog0110 import Ui_Dialog
+from Ui_pw1dialog import Ui_Dialog
 from Ui_seaddialog import Ui_seedDialog
 import threading
 from transfer import trans      #2020年1月20日加的
 import transfer
-from  Ui_controlUI0319 import Ui_Control  
+from  Ui_control import Ui_Control  
 
 # 电源预燃和运行
 pre_onorder = ["aa 01 12 cc 33 c3 3c","aa 02 12 cc 33 c3 3c","aa 03 12 cc 33 c3 3c","aa 04 12 cc 33 c3 3c","aa 05 12 cc 33 c3 3c"]
@@ -90,10 +90,7 @@ class slot():
     # 电源全关线程槽函数
     def alloff_def(self):
         thread_alloff = threading.Thread(target=self.alloff,args=(0,))
-    # 急停
-    def alloff_emer_def(self):
-        thread_alloff_emer = threading.Thread(target=self.alloff,args=(1,))
-
+        thread_alloff.start()
 
 
     def stop_judge(self):
@@ -171,7 +168,7 @@ class slot():
             self.pop_signal.emit(number_str)
 
     def pop_error(self,num):
-        QMessageBox.about( None,"错误",  num + "台电源未开启!")
+        QMessageBox.about( None,"错误",  num + "电源未开启!")
             
             
 
@@ -185,23 +182,23 @@ class slot():
 
     def power_pre(self,i):
         if self.pre[i].isChecked():
-            print("开预燃")
+            print("开第%d台预燃"%(i+1))
             self.on[i].setEnabled(True)
             self.data_write(str=pre_onorder[i])
-            print("开预燃成功")
+         
         else:
-            print("关预燃")
+            print("关第%d台预燃"%(i+1))
             self.on[i].setChecked(False)
             self.on[i].setEnabled(False)
             self.data_write(str=pre_offorder[i])
-            print("关预燃成功")
+        
 
     def power_on(self,i):
         if self.on[i].isChecked():
-            print("开运行")
+            print("开第%d台运行" % (i+1))
             self.data_write(str=on_onorder[i])
         else:
-            print("关运行")
+            print("关第%d台运行" % (i+1))
             self.data_write(str=on_offorder[i])
 
     def allon(self):

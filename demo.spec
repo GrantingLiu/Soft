@@ -4,9 +4,9 @@ block_cipher = None
 
 
 a = Analysis([
-'demo_control0110.py',
-'Ui_pw1dialog0110.py',
-'Ui_controlUI0319.py',
+'demo.py',
+'Ui_pw1dialog.py',
+'Ui_control.py',
 'transfer.py',
 'signalslot.py'],
              pathex=['E:\\LaserSoft\\0608'],
@@ -26,7 +26,7 @@ exe = EXE(pyz,
           a.scripts,
           [],
           exclude_binaries=True,
-          name='demo_control0110',
+          name='demo',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
@@ -39,4 +39,4 @@ coll = COLLECT(exe,
                strip=False,
                upx=True,
                upx_exclude=[],
-               name='demo_control0110')
+               name='demo')

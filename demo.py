@@ -10,8 +10,8 @@ from PyQt5.QtCore import pyqtSignal
 
 from signalslot import slot                   #信号槽文件 
 from transfer import trans                    #通信文件 
-from Ui_controlUI0319 import Ui_Control  
-from Ui_pw1dialog0110 import Ui_Dialog       
+from Ui_control import Ui_Control  
+from Ui_pw1dialog import Ui_Dialog       
 from Ui_seaddialog import Ui_seedDialog
 
 
