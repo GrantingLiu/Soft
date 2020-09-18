@@ -3629,3 +3629,1263 @@
 [ 09/18/20 17:15:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
 [ 09/18/20 17:15:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
 [ 09/18/20 17:15:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:46 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:46 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:46 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:46 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:46 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:46 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:47 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:47 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:47 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:47 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:47 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:47 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:15:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:15:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:16:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:16:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:17:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:17:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:18:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:18:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:19:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:19:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:20:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:20:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:21:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:21:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:22:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:22:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:23:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:23:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:24:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:24:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:25:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:25:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:26:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:26:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:27:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:27:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:28:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:28:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:29:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:29:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:30:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:30:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:46 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:46 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:46 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:46 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:46 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:46 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:47 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:47 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:47 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:47 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:47 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:47 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:31:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:31:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:14 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:14 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:14 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:15 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:15 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:18 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:18 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:44 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:44 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:44 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:45 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:45 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
+[ 09/18/20 17:32:48 ..\src\main\cpp\writerappender.cpp 125 ] writer == 0 (may setFile error), try create current writer.
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 290 ] set file exception: IO Exception : status code = 720003
+[ 09/18/20 17:32:48 ..\src\main\cpp\fileappender.cpp 173 ]  [ IO Exception : status code = 720003 ] setFile(C:/Users/HP/MVS/MVS_Log/MVS.log,true) call failed.
