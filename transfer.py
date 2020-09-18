@@ -40,6 +40,7 @@ class trans():
         if len(port_list) == 0:     # 如果检测不到任何串口 
             print('无任何串口')
             QMessageBox.about( None,"错误",  "无任何串口！")
+            
 
             sys.exit()              # 退出程序
         else:
@@ -49,7 +50,6 @@ class trans():
                 port = str(port_list[i])
                 sign_serial = "erial"
                 useful = port.find(sign_serial)
-
                 if useful != -1:            # find函数的返回值不为-1，则查找到了serial串口
                     k = i                   # 记录查找到目标时的起始下标，因为查找的erial，前面至少一个s，所以起始下标一定会大于0
                     comm.append(port_list[i])       # 把找到的serial串口名添加进列表
@@ -142,23 +142,6 @@ class trans():
             #print("不可动光阑")
         self.threadLock.release()
 
-        # 根据读取电压情况判断开机状态,并更新按钮
-        '''for i in range(0,5):
-            if self.volt_state[i] == 0:     # 返回指令没有查到该地址的设备的电压
-                self.get_volt(str(i+1))     # 数组下表是0~4，地址位是1~5；volt_state[0]是0则应该查地址1的设备
-                time.sleep(0.05)                        
-                self.rejudge(i)        # 不能用read，因为只发了一个查询指令，那就把其他开着的都判断成关了！！！！得单写个
-                if self.volt_state[i] == 0:  #第二次查询还是没有得到
-                    self.reset_v(i)
-                    print("读了2次都没读到地址%d的电压" % i)
-                # 把下面的另写个函数，查询两次都没有电压再执行
-            else:
-                self.pre[i].setEnabled(True)
-
-        '''
-
-
-    
     def search_volt(self,get_v):
         if get_v == 0:
             return
@@ -187,13 +170,15 @@ class trans():
                     player.play()
                     print("play")
                     player.setVolume(10)
+                    QMessageBox.about( None,"错误",  "温度异常！")
+
             else:
                 self.lcdNumber.display(0)
 
 
 
     def reset_v(self,ch):
-        self.pw_v[ch].setText("loadchng")
+        self.pw_v[ch].setText("loading")
         print("重置电压第",ch+1,"台电压值")
         self.pre[ch].setChecked(False)
         self.pre[ch].setEnabled(False)
@@ -206,8 +191,6 @@ class trans():
         time.sleep(0.05)
         read_v = "aa " + address + " c3 cc 33 c3 3c"     
         self.data_write(str=read_v)     #发送查询指令
-
-
 
 
     def data_write(self, str):      #发送指令
@@ -237,50 +220,6 @@ class trans():
             input_s = (input_s + '\r\n').encode('utf-8')
             self.serial_9600.write(input_s)
             print("string:",input_s)
-
-    # 从处理得到的16进制字符串中获取电压值
-    '''def UpdateVolt(self,FindData):
-        judge_open = []
-        for i in range(0,len(FindData),3):             
-            if FindData[i:i+2] == "BB" and FindData[i+6:i+8] == "C3" and  FindData[i+21:i+32] == "CC 33 C3 3C":
-                addr_v = FindData[i+4]
-                high_volt = FindData[i+9:i+11]
-                low_volt = FindData[i+12:i+14]
-                hex_volt = high_volt+low_volt
-                self.real_v = int(hex_volt,16)
-                print("电压值是：",self.real_v)
-                if self.real_v > 0 and self.real_v < 2000:
-                    print("修改第",addr_v,"台电源电压值")
-                    judge_open.append(int(addr_v)-1)        # 该地址位的查询到了电压，添加进空列表;
-                    #self.volt_state[int(addr_v)-1] = 1      # 相应的判断数组设为1
-                    self.pw_v[int(addr_v)-1].setText(str(self.real_v))      
-                    print("已更改第",int(addr_v),"台电源的电压值为",self.real_v)
-                else:
-                    print("电压有问题：",self.real_v)
-                    pass
-            if FindData[i:i+8] == "01 04 02":
-                high_tem = FindData[i+9:i+11]
-                low_tem = FindData[i+12:i+14]
-                hex_tem = high_tem+low_tem
-                real_tem = int(hex_tem,16)/10
-                print("温度是：",real_tem)
-                self.lcdNumber.display(real_tem)
-                if real_tem > 50:
-                    url = QUrl.fromLocalFile(".\\warm.mp3")
-                    content =  QtMultimedia.QMediaContent(url)
-                    player = QtMultimedia.QMediaPlayer()
-                    player.setMedia(content)
-                    player.play()
-                    print("play")
-                    player.setVolume(10)
-            else:
-                self.lcdNumber.display(0)
-        # 循环完后，看judge里有哪些，还缺哪些，缺的把判断数组volt_state相应的设置成0
-        for i in range(0,5):
-            if i in judge_open:
-                self.volt_state[i] = 1
-            else:
-                self.volt_state[i] = 0'''
 
     # 读取返回指令处理成16进制
     def data_read(self):

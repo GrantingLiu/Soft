@@ -13,7 +13,7 @@ from Ui_seaddialog import Ui_seedDialog
 import threading
 from transfer import trans      #2020年1月20日加的
 import transfer
-from  Ui_control import Ui_Control  
+from  Ui_control import Ui_Control
 
 # 电源预燃和运行
 pre_onorder = ["aa 01 12 cc 33 c3 3c","aa 02 12 cc 33 c3 3c","aa 03 12 cc 33 c3 3c","aa 04 12 cc 33 c3 3c","aa 05 12 cc 33 c3 3c"]
@@ -36,18 +36,17 @@ class slot():
         self.on[3].clicked.connect(lambda:self.power_on(3))
         self.on[4].clicked.connect(lambda:self.power_on(4))
 
-        self.pw1_v_send.clicked.connect(self.do_pw_v1)
-        self.pw2_v_send.clicked.connect(self.do_pw_v2)
-        self.pw3_v_send.clicked.connect(self.do_pw_v3)
-        self.pw4_v_send.clicked.connect(self.do_pw_v4)
-        self.pw5_v_send.clicked.connect(self.do_pw_v5)
+        self.pw1_v_send.clicked.connect(lambda:self.change_power(0))
+        self.pw2_v_send.clicked.connect(lambda:self.change_power(1))
+        self.pw3_v_send.clicked.connect(lambda:self.change_power(2))
+        self.pw4_v_send.clicked.connect(lambda:self.change_power(3))
+        self.pw5_v_send.clicked.connect(lambda:self.change_power(4))
 
         self.on_all.clicked.connect(self.all_on_def)     # 电源全开
         self.off_all.clicked.connect(self.alloff_def)    # 电源全关
         self.shutter.clicked.connect(self.shutter_con)   # 光阑
         self.stop_emer.clicked.connect(self.stop_judge)  # 急停                  
         self.start_laser.clicked.connect(self.count_down_def)       # 出光
-
         self.pop_signal.connect(self.pop_error)
         
     # 电源全开的线程槽函数
@@ -62,7 +61,6 @@ class slot():
         thread_count_down = threading.Thread(target=self.count_down)
         thread_count_down.setDaemon(True)
         thread_count_down.start()
-
 
     def start_light_def(self):
         thread_start_light = threading.Thread(target=self.start_light)
@@ -85,13 +83,10 @@ class slot():
         self.threadLock.release()# 释放锁，开启下一个线程        
 
 
-
-
     # 电源全关线程槽函数
     def alloff_def(self):
         thread_alloff = threading.Thread(target=self.alloff,args=(0,))
         thread_alloff.start()
-
 
     def stop_judge(self):
         self.stop_emer.clicked.disconnect(self.stop_judge)      # 解除原有信号槽。因为都要用到clicked
@@ -105,29 +100,15 @@ class slot():
         if self.times == 2:       
             # 关闭所有预燃
             self.alloff(1)
-            # 关闭所有线程
 
     def count_stop_judge(self,all_times):
         # self.timer_stop.stop()
         print("0.7秒内点击急停次数：",all_times,"\n")
         self.stop_emer.clicked.disconnect(self.inclease_times)      # 解除现有计数信号槽
-        '''if all_times > 2:                                 
-            # 关闭所有预燃
-            self.alloff(1)
-            # 关闭所有线程
-
-            print("成功急停\n")'''
         self.stop_emer.clicked.connect(self.stop_judge)         # 变为原来触发计时信号槽
-   
-
-
-
-    #def count_down_thread(self):
-        
-        
 
     def count_down(self):
-        total_time = 300
+        total_time = 180
         have_volt = []
         nohave_volt = []
         for i in range(0,5):
@@ -148,11 +129,12 @@ class slot():
                 total_time -= 1
                 time.sleep(1)
                 print("%02d:%02d" % (minute,second))
-                self.count_down_text.setText("%d:%d" % (minute,second))
+                self.count_down_text.setText("%02d:%02d" % (minute,second))
             print("倒计时结束，出光")
             self.on[0].setEnabled(True)
             self.on[0].setChecked(True)
             self.data_write(str=on_onorder[0])
+            self.count_down_text.setText("")
         else:
             print("未全开机")
             number_str = ""
@@ -161,14 +143,14 @@ class slot():
                     name_volt = "种子源"
                 else:
                     name_volt = "电源" + str(nohave_volt[i]-1) 
-                if i == (len(nohave_volt))-1:
+                if i == (len(nohave_volt))-1:   # 是未开机的设备中最后一个的话后面不加逗号
                     number_str = number_str + name_volt
                 else:
                     number_str = number_str + name_volt + ","
             self.pop_signal.emit(number_str)
 
     def pop_error(self,num):
-        QMessageBox.about( None,"错误",  num + "电源未开启!")
+        QMessageBox.about( None,"错误",  num + "未开启!")
             
             
 
@@ -191,7 +173,6 @@ class slot():
             self.on[i].setChecked(False)
             self.on[i].setEnabled(False)
             self.data_write(str=pre_offorder[i])
-        
 
     def power_on(self,i):
         if self.on[i].isChecked():
@@ -225,16 +206,15 @@ class slot():
         
     
     def alloff(self,urgency):
-        
         print("接受到的urgency：",urgency)
         if urgency == 0:     # 非急停，先关运行再关预燃
             self.threadLock.acquire() 
-            for i in range(4,0,-1):
+            for i in range(4,-1,-1):
                 if self.on[i].isChecked():
                     self.data_write(str=on_offorder[i])
                     self.on[i].setChecked(False)
                     time.sleep(0.5)
-            for i in range(4,0,-1):
+            for i in range(4,-1,-1):
                 if self.pre[i].isChecked():
                     self.on[i].setChecked(False)
                     self.pre[i].setChecked(False)
@@ -254,88 +234,20 @@ class slot():
                     time.sleep(0.05)
         
 
-
-             
-
-
-
-    # 多窗口数据传送？？？
-
-
-
-    # 种子源单独一个
-    def do_pw_v1(self):                        #设置电压
-        if self.volt_state[0] == 1:    #加了继电器后，如果没开机，记得把a[0] 赋值为0！
-            v1_value=int(self.pw1_v_send.text())                  #查询地址01的电源 
-            v=Ui_seedDialog()                           
-            v.spinBox.setValue(v1_value)            
-            if v.exec_():
-                input_v = v.spinBox.value()       #输入的电压值
-                b='%04x'%input_v                   #转换为16进制，不满4位前面补0
-                c="aa 01 a1 "+ b + " cc 33 c3 3c"  #输入的电压转换成16进制后加入到指令中
-                self.data_write(str=c)             #发送指令
-                print(c)
-                self.pw1_v_send.setText(str(input_v))   #修改按钮显示电压
+    def change_power(self,ch):                        #设置电压
+        volt_window = Ui_Dialog()
+        if ch == 0:      # 种子源
+            volt_window.setMaximum = 1400
         else:
+            volt_window.setMaximum = 2000
+        if self.pw_v[ch].text() == "loading":
             pass
-
-    
-    def do_pw_v2(self):                         #设置电压
-        if self.volt_state[1] == 1:
-            v2_value=int(self.pw2_v_send.text())           
-            v=Ui_Dialog()                       
-            v.spinBox.setValue(v2_value)            
-            if v.exec_():
-                input_v = v.spinBox.value()       #输入的电压值
-                b='%04x'%input_v                   #转换为16进制，不满4位前面补0
-                c="aa 02 a1 "+ b + " cc 33 c3 3c"  #输入的电压转换成16进制后加入到指令中
-                self.data_write(str=c)             #发送指令
-                print(c)
-                self.pw2_v_send.setText(str(input_v))  
-
-    def do_pw_v3(self):                         #设置电压
-        if self.volt_state[2] == 1:
-            v3_value=int(self.pw3_v_send.text())
-        
-            v=Ui_Dialog()                       
-            v.spinBox.setValue(v3_value)            
-            if v.exec_():
-                input_v = v.spinBox.value()       #输入的电压值
-                b='%04x'%input_v                   #转换为16进制，不满4位前面补0
-                c="aa 03 a1 "+ b + " cc 33 c3 3c"  #输入的电压转换成16进制后加入到指令中
-                self.data_write(str=c)             #发送指令
-                print(c)
-                self.pw3_v_send.setText(str(input_v))  
-
-
-    def do_pw_v4(self):                         #设置电压
-        if self.volt_state[3] == 1:
-            v4_value=int(self.pw4_v_send.text())       
-           
-            v=Ui_Dialog()                       
-            v.spinBox.setValue(v4_value)            
-            if v.exec_():
-                input_v = v.spinBox.value()       #输入的电压值
-                b='%04x'%input_v                   #转换为16进制，不满4位前面补0
-                c="aa 04 a1 "+ b + " cc 33 c3 3c"  #输入的电压转换成16进制后加入到指令中
-                self.data_write(str=c)             #发送指令
-                print(c)
-                self.pw4_v_send.setText(str(input_v))  
-
-    def do_pw_v5(self):                         #设置电压
-        if self.volt_state[4] == 1:
-            v5_value=int(self.pw5_v_send.text())       
-
-            v=Ui_Dialog()                       
-            v.spinBox.setValue(v5_value)            
-            if v.exec_():
-                input_v = v.spinBox.value()       #输入的电压值
-                b='%04x'%input_v                   #转换为16进制，不满4位前面补0
-                c="aa 05 a1 "+ b + " cc 33 c3 3c"  #输入的电压转换成16进制后加入到指令中
-                self.data_write(str=c)             #发送指令
-                print(c)
-                self.pw5_v_send.setText(str(input_v))  
-
-
-
-
+        else:   
+            volt_window.spinBox.setValue(int(self.pw_v[ch].text()))
+            result = volt_window.exec_()
+            set_value = volt_window.spinBox.value()
+            hex_value = '%04x' % set_value                   #转换为16进制，不满4位前面补0
+            send_value = "aa 0" + str(ch+1) + " a1 "+ hex_value + " cc 33 c3 3c"
+            print("第%d台指令是" % (ch+1),send_value)
+            self.data_write(str=send_value)
+            self.pw_v[ch].setText(str(set_value))   #修改按钮显示电压
