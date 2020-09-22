@@ -48,7 +48,7 @@ if __name__ == '__main__':
     #QApplication.setAttribute(Qt.AA_EnableHighDpiScaling)       # 高清屏幕自适应
     app = QApplication(sys.argv)    # 每一pyqt5应用程序必须创建一个应用程序对象。sys.argv参数是一个列表，从命令行输入参数。
     myWin = MyWindow() 
-    SetParent_def = windll.user32.SetParent 
+    #SetParent_def = windll.user32.SetParent 
     SetWindowPos_def = windll.user32.SetWindowPos
     notepad_handle = win32gui.FindWindow(0,"MVS")
     print("MVS句柄：",notepad_handle)

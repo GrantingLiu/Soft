@@ -137,7 +137,7 @@ class trans():
             return
         for i in range(0,len(get_v),3):             
             if get_v[i:i+2] == "BB" and get_v[i+6:i+8] == "C3" and  get_v[i+21:i+32] == "CC 33 C3 3C":
-                addr_v = get_v[i+4]       # 地址位
+                addr_v = get_v[i+4]       # 地址位；注意这里是1位。如果地址位到10了就得取两位
                 high_volt = get_v[i+9:i+11]
                 low_volt = get_v[i+12:i+14]
                 hex_volt = high_volt+low_volt

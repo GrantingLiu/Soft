@@ -113,7 +113,7 @@ class slot():
                 print("第%d台已开机" % (i+1))
             else:
                 nohave_volt.append(i+1)
-                print("第%d台未开机" % (i+1))
+                print("第%d台未开机" % (i+1)) 
 
         if len(have_volt) == 5:          # 都开机了才能出光
             print("已全开机，准备出光")
