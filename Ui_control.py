@@ -643,7 +643,7 @@ class Ui_Control(object):
         self.on2.setText(_translate("Control", "工作"))
         self.pw1_v_send.setText(_translate("Control", "un"))
         self.pw2_test_2.setText(_translate("Control", "电源"))
-        self.pw1_test.setText(_translate("Control", "种子源"))
+        self.pw1_test.setText(_translate("Control", "Test"))
         self.pw3_test.setText(_translate("Control", "电源2"))
         self.on1.setText(_translate("Control", "工作"))
         self.pw5_v_send.setText(_translate("Control", "un"))

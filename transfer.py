@@ -22,9 +22,8 @@ class trans():
         #thread_v = threading.Thread(target=self.init_v)
         #thread_v.setDaemon(True)
         self.timer = QTimer(self)
-        self.timer9600 = QTimer(self)
         self.timer_stop = QTimer(self) 
-        #self.timer.timeout.connect(self.data_read)   #下面读取电压的init_v
+        self.timer.timeout.connect(self.data_read)   #下面读取电压的init_v
         print("start read")
         self.response = ''
         self.now_num = 0
@@ -32,16 +31,12 @@ class trans():
         self.port_open()   
 
 
-
-    
     def port_open(self):            # 搜索并打开serial串口
         port_list = list(serial.tools.list_ports.comports())        # 所有串口
         self.serial_9600_name = ''
         if len(port_list) == 0:     # 如果检测不到任何串口 
             print('无任何串口')
             QMessageBox.about( None,"错误",  "无任何串口！")
-            
-
             sys.exit()              # 退出程序
         else:
             k = -2                  
@@ -82,18 +77,32 @@ class trans():
                 self.timer.start(5000)      # 轮询查电压
                 self.timer.timeout.connect(self.inquiry_def)
 
+    # 记录用户的操作和实时数据
+    def log_data(self,txt,str1):       
+        now = str(time.strftime("%Y-%m-%d %H:%M:%S  ",time.localtime(time.time())))     # 当下时间
+        name = str(time.strftime("%Y_%m_%d",time.localtime(time.time())))       # 当下日期
+        if txt == "user":           # 如果记录的是用户的操作
+            file_name = "./log_user/" + name + ".txt"
+        elif txt == "comm":         # 如果记录的是数据
+            file_name = "./log_comm/" + name + ".txt"
+        else:
+            pass
+        user_log = open(file_name,mode = 'a+')    # open打开文件file_name，如果没有此文件，则创建一个新的txt。a+在原有数据的基础上换行继续写入
+        user_log.write(now+str1)        # 写入当下时间，和传递过来的信息
+        user_log.close()
+
     def inquiry_def(self):
         print("开启轮询线程")
         thread_inquiry = threading.Thread(target=self.init_v)
         thread_inquiry.setDaemon(True)
         thread_inquiry.start()
 
-
     def init_v(self):
         self.threadLock.acquire()       # 和一键全开关锁在一起  
         # 电压值列表每一次轮询都归零
         self.voltage = [0,0,0,0,0]     
         # 发送指令获取电压值
+        self.log_data("comm","开始轮询\n")
         for i in range(1,6):                    
             addr = "0"+str(i)                   
             update_v=self.get_volt(addr)        # 发送指令，查询地址对应的电源电压
@@ -106,7 +115,7 @@ class trans():
         hex_data = self.data_read()
         # 更新电压值数组和温度
         self.search_volt(hex_data)      
-
+        self.log_data("comm"," 轮询收到的指令为%s\n" % hex_data)
         # 根据电压值列表，二次确认电压后，更新界面
         for i in range(0,5):
             if self.voltage[i] == 0:
@@ -123,6 +132,7 @@ class trans():
             else:
                 if self.voltage[i] > 0 and self.voltage[i] < 2000:
                     self.pw_v[i].setText(str(self.voltage[i]))
+                    self.log_data("comm"," 轮询读取到第%d台设备电压值为%sA\n" % (i+1,self.voltage[i]))
                     self.pre[i].setEnabled(True)
                     self.volt_state[i] = 1
                 else:
@@ -140,6 +150,7 @@ class trans():
         else:
             self.shutter.setEnabled(False)
             #print("不可动光阑")
+        self.log_data("comm","此次轮询结束\n\n\n")
         self.threadLock.release()
 
     def search_volt(self,get_v):

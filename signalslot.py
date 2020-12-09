@@ -165,11 +165,13 @@ class slot():
     def power_pre(self,i):
         if self.pre[i].isChecked():
             print("开第%d台预燃"%(i+1))
+            self.log_data("user","开启第%d台预燃\n"%(i+1))
             self.on[i].setEnabled(True)
             self.data_write(str=pre_onorder[i])
          
         else:
             print("关第%d台预燃"%(i+1))
+            self.log_data("user","关闭第%d台预燃\n"%(i+1))
             self.on[i].setChecked(False)
             self.on[i].setEnabled(False)
             self.data_write(str=pre_offorder[i])
@@ -177,13 +179,16 @@ class slot():
     def power_on(self,i):
         if self.on[i].isChecked():
             print("开第%d台运行" % (i+1))
+            self.log_data("user","开启第%d台工作\n"%(i+1))
             self.data_write(str=on_onorder[i])
         else:
             print("关第%d台运行" % (i+1))
+            self.log_data("user","关闭第%d台工作\n"%(i+1))
             self.data_write(str=on_offorder[i])
 
     def allon(self):
         print("准备全开")
+        self.log_data("user","一键全开\n")
         self.threadLock.acquire()  
         for i in range(0,5):
             if self.volt_state[i] == 1:     # 关机就不用管
@@ -208,6 +213,7 @@ class slot():
     def alloff(self,urgency):
         print("接受到的urgency：",urgency)
         if urgency == 0:     # 非急停，先关运行再关预燃
+            self.log_data("user","一键全关\n")
             self.threadLock.acquire() 
             for i in range(4,-1,-1):
                 if self.on[i].isChecked():
@@ -224,6 +230,7 @@ class slot():
             self.threadLock.release()
         if urgency == 1:
             print("开始发送急停")
+            self.log_data("user","急停\n")
             for i in range(0,5):
                 if self.pre[i].isChecked():
                     self.on[i].setChecked(False)
@@ -241,13 +248,16 @@ class slot():
         else:
             volt_window.setMaximum = 2000
         if self.pw_v[ch].text() == "loading":
+            self.log_data("user"," 点击第%d台电压为loading的设备按钮\n" % (ch+1))
             pass
         else:   
             volt_window.spinBox.setValue(int(self.pw_v[ch].text()))
             result = volt_window.exec_()
             set_value = volt_window.spinBox.value()
+            self.log_data("user"," 设置第%d台设备电流值为%dA\n" % (ch+1,set_value))
             hex_value = '%04x' % set_value                   #转换为16进制，不满4位前面补0
             send_value = "aa 0" + str(ch+1) + " a1 "+ hex_value + " cc 33 c3 3c"
             print("第%d台指令是" % (ch+1),send_value)
+            self.log_data("user"," 发出指令:%s" % send_value)
             self.data_write(str=send_value)
             self.pw_v[ch].setText(str(set_value))   #修改按钮显示电压

@@ -14,7 +14,6 @@ from Ui_control import Ui_Control
 from Ui_pw1dialog import Ui_Dialog       
 from Ui_seaddialog import Ui_seedDialog
 
-
 class MyWindow(QMainWindow, Ui_Control,trans,slot):
     threadLock = threading.Lock()           # 线程锁，用于1、出光触发打开除种子源以外所有开启预燃工作；一键全开；一键全关；轮询；
     #threadlock_search = threading.Lock()
@@ -23,6 +22,8 @@ class MyWindow(QMainWindow, Ui_Control,trans,slot):
 
     def __init__(self, parent=None):                        
         super(MyWindow, self).__init__(parent)
+        self.log_data("user"," 开启软件-----------------------------\n")
+        self.log_data("comm"," 开启软件-----------------------------\n")
         self.setupUi(self)            
         self.pre = [self.pre1,self.pre2,self.pre3,self.pre4,self.pre5]
         self.on=[self.on1,self.on2,self.on3,self.on4,self.on5]
@@ -31,11 +32,11 @@ class MyWindow(QMainWindow, Ui_Control,trans,slot):
         self.signalslot()               # 信号槽
         self.init_v()                   
         self.lcdNumber.display(0.0)
-
+        
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     myWin = MyWindow() 
-    myWin.show() 
+    myWin.show()
     sys.exit(app.exec_())    
 
 
